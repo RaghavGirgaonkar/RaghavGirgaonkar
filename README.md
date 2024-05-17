@@ -1,6 +1,6 @@
-## Hi there 👋 I am Raghav Girgaonkar.
+## Hi there I am Raghav Girgaonkar.
 
-### I am a physicist in training. So far, I have been involved in research in Gravitational Waves, Pulsars and Search for Extraterrestrial Intelligence (SETI).
+### I am a physicist-in-training. My current research is in Gravitational Wave Data Analysis. Previously I have been involved in research in Pulsars and Search for Extraterrestrial Intelligence (SETI).
 
 <!--
 **RaghavGirgaonkar/RaghavGirgaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
