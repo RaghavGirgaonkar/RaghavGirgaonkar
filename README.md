@@ -1,6 +1,6 @@
 ## Hi there I am Raghav.
 
-### I am a Physics PhD student at the Unversity of Wisconsin-Milwaukee. My current research focuses on transient detection using radio interferometry. Previously I have been involved in research in Gravitational Data Analysis, Pulsars and Search for Extraterrestrial Intelligence (SETI).
+### I am a Physics PhD Scholar at the Unversity of Wisconsin-Milwaukee. My current research focuses on transient detection using radio interferometry. Previously I have been involved in research in Gravitational Data Analysis, Pulsars and Search for Extraterrestrial Intelligence (SETI).
 
 <!--
 **RaghavGirgaonkar/RaghavGirgaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
