@@ -1,6 +1,6 @@
-## Hi there I am Raghav.
+## Hi there, I am Raghav.
 
-### I am a Physics PhD Candidate at the Unversity of Wisconsin-Milwaukee. My current research focuses on the detection and studies of radio transient phenomena . Previously, I have done research in Gravitational Data Analysis, Pulsars and Search for Extraterrestrial Intelligence (SETI).
+I am a Physics PhD Candidate at the Unversity of Wisconsin-Milwaukee. My current research focuses on the detection and studies of radio transient phenomena. Previously, I have done research in Gravitational Data Analysis, Pulsars and Search for Extraterrestrial Intelligence (SETI).
 
 
 <!--
